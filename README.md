@@ -1,4 +1,4 @@
-### Hello, I'm Yauhen <img src="https://giphy.com/gifs/Fuzzballs-cute-kawaii-fuzzballs-MEFVcuRIoVETUMYZEe" width="100"/>
+### Hello, I'm Yauhen 
 
 <h5>In my projects I use:</h5>
 <p>
